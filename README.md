@@ -5,6 +5,8 @@ Some of the functionality of typed arrays implemented as an overlay on arrays.
 
 The intention of this project is to provide an approximate subset of JavaScript typed arrays that let developers gain some of the advantages of typed arrays, while maintaining support for browsers that do not support typed arrays, and also maintaining reasonable performance in these browsers.
 
+It is released under a BSD licence.
+
 Notable features not present:
 =============================
 No datatype conversion, all array types implement 64 bit floats.<br>
