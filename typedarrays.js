@@ -33,6 +33,9 @@ SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 	 * dirreferently in order to acheive high performance and browser
 	 * compatibility. Code should be tested thorougly both with this shim active
 	 * and with a native implementation.
+	 * 
+	 * For more information and newest version go to:
+	 * https://github.com/Jacob-Christian-Munch-Andersen/Typed-arrays-light-shim
 	**/
 	function Typedarray(length,elementlength,begin,end){
 		var obj=[]
